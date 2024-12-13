@@ -1,0 +1,24 @@
+{
+  "name": "simplenodeserial",
+  "version": "1.0.0",
+  "description": "setting up ``` npm init -y ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanulee/simpleNodeSerial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanulee/simpleNodeSerial/issues"
+  },
+  "homepage": "https://github.com/chanulee/simpleNodeSerial#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "serialport": "^12.0.0"
+  }
+}
